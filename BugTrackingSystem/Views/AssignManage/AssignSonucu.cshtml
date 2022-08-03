@@ -1,0 +1,52 @@
+﻿@model BugTrackingSystem.Models.Issue
+
+@{
+    ViewBag.Title = "Atama Sonucu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Atama Sonuçları</h2>
+
+<div>
+    <h4>Atama Sonucu</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Priority)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Priority)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Asignee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Asignee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Reporter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Reporter)
+        </dd>
+
+    </dl>
+</div>

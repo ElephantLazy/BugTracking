@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "UploadFile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload A File</h2>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+@using (Html.BeginForm("UploadFile", "Issues", FormMethod.Post, new  { enctype = "multipart/form-data" }))
+
+{ 
+    <input type="file" name="file" value="file" />
+    <button type="submit">Kaydet</button>
+
+}
+
+@Html.ActionLink("Back", "Create")

@@ -1,0 +1,49 @@
+﻿@model BugTrackingSystem.Models.IssueUserViewModel
+@{
+    ViewBag.Title = "GeriDonut";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+@using (Html.BeginForm("Kaydet", "Yetkilendirme", FormMethod.Post))
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.HiddenFor(m => m.IssueId)
+        <h2>Do Feedback</h2>
+        <hr />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Statuss, "Status", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Statuss, new { @class = "form-control" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.tamamlanmaOrani, "Completion Ratio", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.tamamlanmaOrani, new { @class = "form-control" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.ActionLink("Upload A File", "UploadFile", "Issues")
+            </div>
+        </div>
+
+            <button type="submit" class="btn btn-info">Kaydet</button>
+
+        </div>
+}
+
+        <div>
+            @Html.ActionLink("Back", "MyTasks")
+        </div>

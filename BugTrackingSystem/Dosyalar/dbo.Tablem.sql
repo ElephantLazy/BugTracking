@@ -1,0 +1,5 @@
+﻿CREATE TABLE Departman
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Ad] NVARCHAR(50) NULL
+)

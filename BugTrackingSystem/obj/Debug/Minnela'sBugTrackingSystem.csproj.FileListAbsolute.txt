@@ -1,0 +1,150 @@
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\csc.exe
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\BugTrackingSystem.dll.config
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\BugTrackingSystem.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\BugTrackingSystem.pdb
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Antlr3.Runtime.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\EntityFramework.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Owin.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Optimization.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\WebGrease.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Optimization.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\EntityFramework.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.initial.resources
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.yfyf.resources
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.kmk.resources
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csproj.GenerateResource.Cache
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.dll
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.pdb
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csprojResolveAssemblyReference.cache
+C:\Users\stajyer\Documents\Visual Studio 2015\Projects\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.yew.resources
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\csc.exe
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\vbc.exe
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\BugTrackingSystem.dll.config
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\BugTrackingSystem.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\BugTrackingSystem.pdb
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Antlr3.Runtime.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\EntityFramework.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Newtonsoft.Json.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Owin.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Helpers.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Mvc.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Optimization.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Razor.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\WebGrease.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Helpers.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Mvc.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Optimization.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.Razor.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Newtonsoft.Json.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\EntityFramework.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.initial.resources
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.yfyf.resources
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.kmk.resources
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.Migrations.yew.resources
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csproj.GenerateResource.cache
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\Minnela'sBugTrackingSystem.csproj.CopyComplete
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.dll
+C:\Users\cwc12\Desktop\Bug-Tracking-System-Asp.Net-MVC-master\Bug-Tracking-System-Asp.Net-MVC-master\BugTrackingSystem\obj\Debug\BugTrackingSystem.pdb

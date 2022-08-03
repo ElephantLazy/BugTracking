@@ -1,0 +1,31 @@
+﻿@model BugTrackingSystem.Models.IssueUserViewModel
+
+    @{ 
+    ViewBag.Title = "Atama";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Here you can see all developers..</h2>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <tbody>
+@using (Html.BeginForm("AssignSonucu", "AssignManage", FormMethod.Post))
+{ 
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.IssueId)
+   
+              <div class="form-group">
+                  <label>Assignee</label>
+      @Html.DropDownListFor(m => m.AssigneeId, new SelectList(Model.User.Where(n => n.Roles.Any(k => k.RoleId == "3")),"Name","Name",""), "Choose A Developer", new { @class = "form-control" })
+            </div>
+
+              <button type="submit" class="btn btn-info">Assign</button>
+
+
+}
+
+       
+
+
+    </tbody>
+

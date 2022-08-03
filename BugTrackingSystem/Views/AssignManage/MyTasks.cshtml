@@ -1,0 +1,51 @@
+﻿@model List<BugTrackingSystem.Models.Issue>
+
+@{
+
+    ViewBag.Title = "MyTasks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My Tasks</h2>
+
+<a href="@Url.Action("Download", "AssignManage", new {file="minel.txt"})">Download</a>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+
+<table class="table table-bordered">
+    <thead>
+
+        <tr>
+            <th>Issue Type</th>
+            <th>Summary</th>
+            <th>Description</th>
+            <th>Priority</th>
+            <th>Reporter</th>
+            <th>Issue Status</th>
+            <th>Entry Date</th>
+            <th>Resolve Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var issue in Model)
+        {
+            <tr>
+                <td>@issue.IssueType</td>
+                <td>@issue.Summary</td>
+                <td>@issue.Description</td>
+                <td>@issue.Priority</td>
+                <td>@issue.Reporter</td>
+                <td>@issue.Status</td>
+                <td>@issue.EntryDate</td>
+                <td>@issue.ResolveDate</td>
+
+                <td><a class="btn btn-info" href="/AssignManage/GeriDonut/@issue.Id">Feedback</a></td>
+
+            </tr>
+
+        }
+
+    
+    </tbody>
+</table>
